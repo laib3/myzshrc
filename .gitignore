@@ -1,0 +1,7 @@
+aliases.zsh
+colors.zsh
+environment.zsh
+functions.zsh
+highlight/
+.zcompdump
+.zprofile
